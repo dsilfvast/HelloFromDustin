@@ -5,5 +5,7 @@ public class HelloFromDustin {
         System.out.println("Hello, my name is Dustin.");
         System.out.println("Hello Dustin, my name is Andersen.");
         System.out.println("Hello Dustin, my name is Anne");
+
+        System.out.println("Stretch assignment...");
     }
 }
